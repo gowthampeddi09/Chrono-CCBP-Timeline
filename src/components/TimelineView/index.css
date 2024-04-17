@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.timeLineViewContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 1110px;
+  height: 100vh;
+}
+
+.my-journey-text {
+  color: #1e293b;
+  font-size: 29px;
+}
+
+.course-name {
+  color: #171f46;
+  font-size: 30px;
+  font-weight: 750;
+}
